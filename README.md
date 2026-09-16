@@ -7,5 +7,6 @@ Juan Andrés Agudelo Melguizo
 
 Walter Hugo Arboleda Mazo
 
-<img width="320" height="320" alt="universidad-nacional-de-colombia-sede-bogota-logo-png_seeklogo-145763" src="https://github.com/user-attachments/assets/3e55e09a-c814-4977-9337-cb6c35503958" />
+<img width="180" height="180" alt="Logo-negro" src="https://github.com/user-attachments/assets/d95aabfe-fe4b-4508-8818-a63f3cb87f7c" />
+
 
