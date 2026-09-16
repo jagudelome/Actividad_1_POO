@@ -1,5 +1,7 @@
-# Actividad_1_POO
+# Programación orientada a objetos
 Universidad Nacional de Colombia
+
+Actividad #1
 
 Juan Andrés Agudelo Melguizo
 
