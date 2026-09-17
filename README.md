@@ -4,9 +4,9 @@ Universidad Nacional de Colombia
 
 Actividad #1
 
-Juan Andrés Agudelo Melguizo
+Estudiante: Juan Andrés Agudelo Melguizo
 
-Walter Hugo Arboleda Mazo
+Docente: Walter Hugo Arboleda Mazo
 
 
 
